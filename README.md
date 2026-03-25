@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @siva-nxtwave
-- 👀 I’m interested in ... Coding 
-- 🌱 I’m currently learning ... Physics 
+- 👀 I’m interested in ... Coding  
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...+91 9360478741
+- 📫 How to reach me ... karthikeyan93604@gmail.com
 
 <!---
 siva-nxtwave/siva-nxtwave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
